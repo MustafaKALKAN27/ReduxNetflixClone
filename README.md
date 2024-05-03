@@ -52,8 +52,5 @@ export default {
 
 <img src="screen.gif"/>
 
-97c162b986a463d3276dbe486dde3ae9
 
-
-eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiI5N2MxNjJiOTg2YTQ2M2QzMjc2ZGJlNDg2ZGRlM2FlOSIsInN1YiI6IjY2MzQ3NjVkZDE4NTcyMDEyMjM0YWMwNyIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.hITuntFQFbS6BPER-LUAAagLMDxkBfrXXix2y2w8O94# ReduxNetflixClone
 # ReduxNetflixClone
