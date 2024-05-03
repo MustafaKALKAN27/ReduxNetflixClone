@@ -5,7 +5,7 @@
 -Tmdb üye olunarak api için kişisel token alınmıştır.
 -Alınan Token api isteği atmak için kullanılmıştır.
 
-# Projeyi Kurmama
+# Projeyi Kurma
  
   -npm create vite .
   -npm i
